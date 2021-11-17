@@ -27,17 +27,5 @@
             "name": "Davide Zuliani"
         }
     ], 
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/dnicotra/cineca2021-qml4jet/tree/v0.1", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.5707434", 
-            "relation": "isVersionOf"
-        }
-    ]
+    "access_right": "open"
 }
