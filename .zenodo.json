@@ -1,0 +1,42 @@
+{
+    "description": "<p>Material for the presentation at the CINECA Practical Quantum Computing School 2021</p>", 
+    "license": "CC-BY-4.0", 
+    "title": "Quantum Machine Learning for Jet Tagging at the LHCb experiment - CINECA Practical Quantum Computing School 2021", 
+    "version": "v0.1", 
+    "upload_type": "software", 
+    "publication_date": "2021-11-17", 
+    "creators": [
+        {
+            "affiliation": "INFN, Padova (IT)", 
+            "name": "Alessio Gianelle"
+        }, 
+        {
+            "affiliation": "Universit\u00e0 e INFN, Padova (IT)", 
+            "name": "Donatella Lucchesi"
+        }, 
+        {
+            "affiliation": "Universit\u00e0 di Padova (IT)", 
+            "name": "Davide Nicotra"
+        }, 
+        {
+            "affiliation": "INFN, Padova (IT)", 
+            "name": "Lorenzo Sestini"
+        }, 
+        {
+            "affiliation": "Universit\u00e0 e INFN, Padova (IT)", 
+            "name": "Davide Zuliani"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/dnicotra/cineca2021-qml4jet/tree/v0.1", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.5707434", 
+            "relation": "isVersionOf"
+        }
+    ]
